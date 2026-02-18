@@ -45,6 +45,15 @@ This project demonstrates real-world backend engineering practices inspired by f
 - Business rule validations
 - Loan lifecycle management
 
+### ✅ Cards Service
+
+- Credit/Debit card creation
+- Card limit management
+- Card activation/deactivation
+- Card transaction validation
+- Customer-card mapping
+- Secure card lifecycle handling
+
 ------------------------------------------------------------
 
 ## 🛠️ Tech Stack
